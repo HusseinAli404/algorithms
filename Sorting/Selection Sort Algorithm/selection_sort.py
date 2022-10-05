@@ -1,5 +1,4 @@
-# Python program for implementation of Selection
-# Sort
+# Python program for implementation of Selection sort
 import sys
 A = [64, 25, 12, 22, 11]
 
