@@ -1,1 +1,1 @@
-# Merge Sort Algorithm
+# merge sort algorithm
