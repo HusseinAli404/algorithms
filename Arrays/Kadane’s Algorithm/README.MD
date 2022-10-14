@@ -1,1 +1,1 @@
-# Kadane’s Algorithm
+# kadane’s algorithm
